@@ -2,29 +2,72 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/html_1.png",
+      "title": "HTML",
+      "description": ": Experienced"
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/css_2.svg",
+      "title": "CSS",
+      "description": ": Experienced"
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/js_3.png",
+      "title": "JavaScript",
+      "description": ": beginner"
     },
     {
       "id": "4",
+      "src": "./img/mysql_4.png",
+      "title": "MySQL",
+      "description": ": Beginner"
+    },
+    {
+      "id": "5",
+      "src": "./img/node.js_5.png",
+      "title": "Node.js",
+      "description": ": beginner"
+    },
+    {
+      "id": "6",
+      "src": "./img/python_6.png",
+      "title": "Python",
+      "description": ": Experienced"
+    },
+    {
+      "id": "7",
+      "src": "./img/java_7.png",
+      "title": "Java",
+      "description": ": beginner"
+    },
+    {
+      "id": "8",
+      "src": "./img/github_8.jpeg",
+      "title": "GitHub",
+      "description": ": beginner"
+    },
+    {
+      "id": "9",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description":"As a beginner in back-end development, I am focusing on learning core technologies like Node.js, Express, and databases. I’m building a strong foundation in server-side logic, API development, and database management, while continuously improving my problem-solving and coding skills."
+    },
+    {
+      "id": "10",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "As a beginner in UI/UX design, I’m learning to create user-friendly interfaces and seamless experiences. I focus on understanding user needs, wireframing, prototyping, and applying design principles to ensure intuitive and visually appealing designs."
+    },
+    {
+      "id": "11",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "As a beginner in Webflow development, I’m learning to build responsive, visually engaging websites with Webflow’s no-code platform. I focus on mastering design elements, animations, and CMS functionality to create user-friendly, dynamic websites."
     }
   ],
+
   "portfolio": [
     {
       "id": "1",
@@ -47,31 +90,6 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
     }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
-    }
+
   ]
 }
